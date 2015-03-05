@@ -6,11 +6,7 @@
  * @author Tom Pickett
  *
  */
-import javax.swing.*;
 
-import java.awt.Color;
-import java.awt.FlowLayout;
-import java.awt.*;
 
 
 public class Program {

@@ -1,7 +1,5 @@
 import java.awt.FlowLayout;
 
-import java.awt.EventQueue;
-
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.border.EmptyBorder;
@@ -12,6 +10,10 @@ import javax.swing.JLabel;
 
 public class MyWindow extends JFrame {
 
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
 	private JPanel _contentPane;
 	private final JTextField _textField1 = new JTextField("Enter your Name: ");
 	private JLabel _textField1Label;
